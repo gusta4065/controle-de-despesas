@@ -1,0 +1,19 @@
+{
+  "name": "controle-de-despesas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gusta4065/controle-de-despesas-estudo.git"
+  },
+  "author": "Luiz Gustavo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gusta4065/controle-de-despesas-estudo/issues"
+  },
+  "homepage": "https://github.com/gusta4065/controle-de-despesas-estudo#readme"
+}
